@@ -32,7 +32,7 @@ module.exports = {
 };
 ```
 
-`entry` 属性的单个入口语法，参考下面的简写：
+`entry` 属性的单个入口语法是下面这种写法的简写：
 
 **webpack.config.js**
 
